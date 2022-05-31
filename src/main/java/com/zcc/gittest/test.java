@@ -10,5 +10,6 @@ public class test {
         System.out.println("git-test ...");
         System.out.println("git-test test ssh");
         System.out.println("git-test test https");
+        System.out.println("git-test test in github");
     }
 }
